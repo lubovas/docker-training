@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: jawn-fs2
+Implementation-Version: 1.0.0
+Specification-Vendor: org.http4s
+Specification-Title: jawn-fs2
+Implementation-Vendor-Id: org.http4s
+Specification-Version: 1.0.0
+Implementation-URL: https://github.com/http4s/jawn-fs2
+Implementation-Vendor: org.http4s
+

@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/Lubo/Library/Mobile%20Documents/com~apple~CloudDocs/Code/docker-training/helper-app/helper-docker-server/"), "root")...
+[debug] Done updating ProjectRef(uri("file:/Users/Lubo/Library/Mobile%20Documents/com~apple~CloudDocs/Code/docker-training/helper-app/helper-docker-server/"), "root")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.

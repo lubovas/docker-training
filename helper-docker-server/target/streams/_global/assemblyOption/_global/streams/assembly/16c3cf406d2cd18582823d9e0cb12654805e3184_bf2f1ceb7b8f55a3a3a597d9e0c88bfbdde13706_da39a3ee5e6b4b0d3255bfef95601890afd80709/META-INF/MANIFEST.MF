@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: unique
+Specification-Version: 2.0.0
+Specification-Vendor: io.chrisdavenport
+Implementation-Title: unique
+Implementation-Version: 2.0.0
+Implementation-Vendor: io.chrisdavenport
+Implementation-Vendor-Id: io.chrisdavenport
+Implementation-URL: https://github.com/ChristopherDavenport/unique
+
